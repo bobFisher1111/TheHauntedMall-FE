@@ -1,0 +1,8 @@
+/*
+    - Video Game Notes:
+        - Technologies:
+            - React Redux Typescript
+        - Libraries:
+            - Material-ui
+            - 
+*/
