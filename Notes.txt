@@ -4,5 +4,10 @@
             - React Redux Typescript
         - Libraries:
             - Material-ui
+        - Sprints:
+            - Sprint 0:
+                - Setup a repository // completed
+                - Setup material ui  // completed   
+                - Clean up the code
             - 
 */
