@@ -9,5 +9,39 @@
                 - Setup a repository // completed
                 - Setup material ui  // completed   
                 - Clean up the code
-            - 
+            - Sprint 1:
+                - Create a welcome page basic
+                - Aslo a login portion, but not functional yet
+            - Sprint 2:
+                - Spike SSO Authenication 
+            - Sprint 3:
+                - Create login using SSO Authenication Google
+                    - Includes a backend with Python
+                    - database, mongodb
+                - Connect to front end
+            - Sprint 4:
+                - Spike How to create tile set map
+            - Sprint 5:
+                - Create a small room for store
+            - Sprint 6:
+                - Implement it in the repository
+            - Sprint 7:
+                - Create a character
+            - Sprint 8:
+                - Implement character
+            - Sprint 9:
+                - Spike figure out how to add movement to character
+            - Sprint 10: 
+                - Implement movent to character
+            - Sprint 11:
+                - Create Several npcs for store
+            - Sprint 12:
+                - Spike figure out how to add text and somewhat ai to npcs
+            - Sprint 13:
+                - Spike Change the text npc has to somewhat of a digigal comic feel and alllow choices
+                - May have to create db if not already one
+            - sprint 14:
+                - Implement the findings for the comic feel
+            - Sprint 15:
+                - ......
 */
