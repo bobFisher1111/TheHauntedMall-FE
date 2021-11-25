@@ -1,6 +1,7 @@
 /*
     - Video Game Notes:
         - Technologies:
+            - MERN Stack
             - React Redux Typescript
         - Libraries:
             - Material-ui
@@ -8,9 +9,9 @@
             - Sprint 0:
                 - Setup a repository // completed
                 - Setup material ui  // completed   
-                - Clean up the code
+                - Clean up the code // completed
             - Sprint 1:
-                - Create a welcome page basic
+                - Create a welcome page basic // completed
                 - Aslo a login portion, but not functional yet
             - Sprint 2:
                 - Spike SSO Authenication 
