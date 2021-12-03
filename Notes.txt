@@ -3,8 +3,31 @@
         - Technologies:
             - MERN Stack
             - React Redux Typescript
+            - Tiled, for creating tile set?
         - Libraries:
             - Material-ui
+            - axios
+            - 
+        - Database:
+            - JSON: that will be loaded for user save
+                - character:
+                    - hat: yes / no
+                    - hair: blonde / brown/ black/ red / blue / green/ puprle
+                    - skin color: several shades
+                    - sex: male / female
+                    - shirt:
+                    - pants:
+                    - shoes:
+                    - job/class: rogue / ghost hunter 
+                    - items: [ list of items... ]
+                    - location: last saved location
+                - NPC:
+                    - List of NPC in Game  
+                        - Conversation: where left off, start at 0 and go up 
+                            - converstaion will be saved in database, also multiple choices
+                        - Location on map: there Location
+                - 
+    
         - Sprints:
             - Sprint 0:
                 - Setup a repository // completed
@@ -17,8 +40,12 @@
                 - Spike SSO Authenication 
             - Sprint 3:
                 - Create login using SSO Authenication Google
-                    - Includes a backend with Python
-                    - database, mongodb
+                    - Backend:
+                        - express.js
+                    - Database:
+                        - mongodb
+                    - Libraries:
+                        - passport.js
                 - Connect to front end
             - Sprint 4:
                 - Spike How to create tile set map
