@@ -6,8 +6,11 @@
             - Tiled, for creating tile set?
         - Libraries:
             - Material-ui
+                - for styles:
+                    - npm install @mui/styles
             - axios
-            - 
+            - Maybe something like Electron to package the application, once I have it in working state
+                https://www.electronjs.org/
         - Database:
             - JSON: that will be loaded for user save
                 - character:
