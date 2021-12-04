@@ -3,9 +3,6 @@ import { Typography } from '@mui/material';
 import { createStyles, makeStyles } from '@mui/styles';
 import { Theme } from '@mui/material/styles';
 
-import OpenLink from '../Practice/OpenLink';
-import Profile from '../Profile/Profile';
-
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
     root: {
@@ -22,22 +19,38 @@ const useStyles = makeStyles((theme: Theme) =>
 );
 
 
-const WelcomePage = () => {
+const Profile = () => {
 
   const classes = useStyles();
 
   return (
     <div className={classes.root}>
       <Typography
-        variant="h1"
+        variant="h4"
         className={classes.title}
       >
-        The Haunted Mall: Video Game
+        New Game
       </Typography>
-      <OpenLink />
-      <Profile />
+      <Typography
+        variant="h4"
+        className={classes.title}
+      >
+        Load Game
+      </Typography>
+      <Typography
+        variant="h4"
+        className={classes.title}
+      >
+        Settings
+      </Typography>
+      <Typography
+        variant="h4"
+        className={classes.title}
+      >
+        Quit
+      </Typography>
     </div>
   )
 };
 
-export default WelcomePage;
+export default Profile;
