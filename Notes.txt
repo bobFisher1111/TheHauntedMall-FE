@@ -32,24 +32,45 @@
                 - 
     
         - Sprints:
-            - Sprint 0:
+            - Sprint 0: // completed
                 - Setup a repository // completed
                 - Setup material ui  // completed   
                 - Clean up the code // completed
-            - Sprint 1:
+            - Sprint 1: // completed
                 - Create a welcome page basic // completed
-                - Aslo a login portion, but not functional yet
-            - Sprint 2:
-                - Spike SSO Authenication 
+                - Aslo a login portion, but not functional yet // completed
+            - Sprint 2: // completed
+                - Spike SSO Authenication // completed
             - Sprint 3:
                 - Create login using SSO Authenication Google
+                    - Create FE Repo for login that can be reused:
+                        - Repo
+                        - Implement
                     - Backend:
                         - express.js
+                        - Repo
+                        - Implement
                     - Database:
                         - mongodb
+                            - 1. download on:
+                                - windows: // completed
+                                - Linkux: // not yet
+                            - Set Up database for it
+                            - Create Repo
+                            - Create Script or whatever for SSO login
                     - Libraries:
                         - passport.js
                 - Connect to front end
+            - Sprint __:
+                - Implmenet libary created for sso into application
+                - Along with routing to profile page
+            - Sprint __:
+                - Build out create character page
+                - Save build to database
+            - Sprint __: 
+                - After character build, the character routed to game world
+            - Sprint __:
+                - Creat a save state for user,
             - Sprint 4:
                 - Spike How to create tile set map
             - Sprint 5:
@@ -73,6 +94,8 @@
                 - May have to create db if not already one
             - sprint 14:
                 - Implement the findings for the comic feel
+            - Sprint 15:
+                - implement google tag manager
             - Sprint 15:
                 - ......
 */
